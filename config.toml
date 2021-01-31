@@ -1,0 +1,4 @@
+baseURL = "https://noteurt.github.io/"
+languageCode = "en-us"
+title = "Noteurt golb"
+theme = "PaperMod"
